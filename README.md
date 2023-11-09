@@ -22,5 +22,5 @@ To set up the chatbot, follow these steps:
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/AmnaJavaid912/CODSOFT
+   git clone https://github.com/AmnaJavaid912/CODSOFT_1.git
     
